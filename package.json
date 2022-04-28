@@ -1,7 +1,8 @@
 {
   "name": "zyg-ui",
   "version": "0.1.0",
-  "private": true,
+  "private": false,
+  "main":"./dist/zyg-ui.umd.js",
   "scripts": {
     "serve": "vue-cli-service serve --https",
     "build": "vue-cli-service build",
